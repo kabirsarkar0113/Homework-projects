@@ -2,7 +2,7 @@ total_chores = 4
 original_count = total_chores
 print(f"You have got {total_chores} chores to finish")
 completed_count = 0
-chore_number = 1
+chore_number = 1   
 
 while chore_number <= total_chores:
     if chore_number == 1:
